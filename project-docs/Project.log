@@ -1,0 +1,404 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.7.5)  11 JUL 2013 02:12
+entering extended mode
+ %&-line parsing enabled.
+**Project.tex
+(./Project.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, loaded.
+(/usr/share/texmf-texlive/tex/latex/base/report.cls
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (./rit-cs-capstone.sty
+Document Style Option `rit-cs-capstone, rkr version 1.04 <June 04, 2011>.
+) (/usr/share/texmf-texlive/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip43
+\subfigcapskip=\skip44
+\subfigcaptopadj=\dimen103
+\subfigbottomskip=\skip45
+\subfigcapmargin=\dimen104
+\subfiglabelskip=\skip46
+\c@subfigure=\count88
+\c@lofdepth=\count89
+\c@subtable=\count90
+\c@lotdepth=\count91
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/share/texmf-texlive/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip47
+\subfig@bottom=\skip48
+) (./gloss.sty
+Package: gloss 2002/07/26 1.5.2 Gloss package
+\glosshang=\skip49
+)
+(/usr/share/texmf-texlive/tex/generic/babel/babel.sty
+Package: babel 2008/07/06 v3.8l The Babel package
+
+(/usr/share/texmf-texlive/tex/generic/babel/english.ldf
+Language: english 2005/03/30 v3.3o English support from the babel system
+
+(/usr/share/texmf-texlive/tex/generic/babel/babel.def
+File: babel.def 2008/07/06 v3.8l Babel common definitions
+\babel@savecnt=\count92
+\U@D=\dimen105
+)
+\l@british = a dialect from \language\l@english 
+\l@UKenglish = a dialect from \language\l@english 
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+(/usr/share/texmf-texlive/tex/latex/psnfss/times.sty
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/etc/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2010/03/12 v0.04p Graphics/color for pdfTeX
+\Gread@gobject=\count93
+))
+\Gin@req@height=\dimen106
+\Gin@req@width=\dimen107
+)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2009/06/22 v3.00
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\@emptytoks=\toks15
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+))
+(/usr/share/texmf-texlive/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+(/usr/share/texmf-texlive/tex/latex/tools/verbatim.sty
+Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks16
+\verbatim@line=\toks17
+\verbatim@in@stream=\read1
+)
+(/usr/share/texmf-texlive/tex/latex/tools/enumerate.sty
+Package: enumerate 1999/03/05 v3.00 enumerate extensions (DPC)
+\@enLab=\toks18
+)
+(/usr/share/texmf-texlive/tex/latex/tools/afterpage.sty
+Package: afterpage 1995/10/27 v1.08 After-Page Package (DPC)
+\AP@output=\toks19
+\AP@partial=\box26
+\AP@footins=\box27
+) (./watermark.sty
+Package: watermark 2002/01/29 v1.01 Watermarks (NCC)
+)
+\glsf@default=\write3
+\openout3 = `Project.gls.aux'.
+
+Package gloss Info: Writing gloss file Project.gls.aux on input line 36.
+
+(./Project.aux (./intro.aux) (./design.aux) (./implementation.aux)
+(./analysis.aux) (./conclusions.aux) (./appendixA.aux) (./appendixB.aux)
+(./appendixC.aux))
+\openout1 = `Project.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 38.
+ (/usr/share/texmf-texlive/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+(/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count94
+\scratchdimen=\dimen108
+\scratchbox=\box28
+\nofMPsegments=\count95
+\nofMParguments=\count96
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count97
+\MPscratchDim=\dimen109
+\MPnumerator=\count98
+\everyMPtoPDFconversion=\toks21
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24.88> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 83.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 83.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 83.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+] [2]
+LaTeX Font Info:    Try loading font information for U+msa on input line 83.
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 83.
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+) [3] [4
+
+] (./abstract.tex
+[5
+
+]) [6
+
+] [7] (./Project.toc [8
+
+])
+\tf@toc=\write4
+\openout4 = `Project.toc'.
+
+ [9] (./Project.lot)
+\tf@lot=\write5
+\openout5 = `Project.lot'.
+
+ [10
+
+] (./Project.lof)
+\tf@lof=\write6
+\openout6 = `Project.lof'.
+
+
+[11
+
+]
+\openout2 = `intro.aux'.
+
+ (./intro.tex
+Chapter 1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--15
+
+ []
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 16.
+[1
+
+
+]
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 28.
+ (/usr/share/texmf-texlive/tex/latex/psnfss/omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 28.
+ [2] [3]
+Overfull \hbox (5.88776pt too wide) in paragraph at lines 76--84
+\OT1/ptm/m/n/12 works pri-mar-ily fo-cused on ex-tract-ing sen-tences based on 
+promi-nent terms, sen-tence lengths,
+ []
+
+
+LaTeX Warning: Citation `Hovy99' on page 4 undefined on input line 86.
+
+
+LaTeX Warning: Citation `Nomoto05' on page 4 undefined on input line 88.
+
+[4]
+
+LaTeX Warning: Citation `pagerank' on page 5 undefined on input line 99.
+
+
+LaTeX Warning: Citation `TextRank' on page 5 undefined on input line 100.
+
+
+LaTeX Warning: Citation `lexrank' on page 5 undefined on input line 100.
+
+
+LaTeX Warning: Citation `Wang:2009' on page 5 undefined on input line 100.
+
+
+LaTeX Warning: Citation `naive-bayes' on page 5 undefined on input line 106.
+
+[5]
+
+LaTeX Warning: Citation `Steinberger:2009' on page 6 undefined on input line 11
+5.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--128
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--131
+
+ []
+
+[6]
+
+LaTeX Warning: Citation `Gong-Liu' on page 7 undefined on input line 162.
+
+
+LaTeX Warning: Citation `Steinberger:2009' on page 7 undefined on input line 16
+3.
+
+[7]) [8] [9]
+\openout2 = `design.aux'.
+
+ (./design.tex
+Chapter 2.
+<design.jpg, id=73, 796.9775pt x 1127.21124pt>
+File: design.jpg Graphic file (type jpg)
+ <use design.jpg> [10
+
+
+
+] [11 <./design.jpg>] [12]) [13]
+\openout2 = `implementation.aux'.
+
+ (./implementation.tex
+Chapter 3.
+) [14
+
+
+
+]
+\openout2 = `analysis.aux'.
+
+ (./analysis.tex
+Chapter 4.
+) [15
+
+
+
+]
+\openout2 = `conclusions.aux'.
+
+ (./conclusions.tex
+Chapter 5.
+
+LaTeX Warning: Citation `Bayliss2008-sigcse' on page 16 undefined on input line
+ 18.
+
+
+LaTeX Warning: Citation `Dumont2007-robots' on page 16 undefined on input line 
+18.
+
+
+LaTeX Warning: Citation `ELmasri06-text' on page 16 undefined on input line 18.
+
+
+
+LaTeX Warning: Citation `Ericson07-sigcse' on page 16 undefined on input line 1
+8.
+
+
+LaTeX Warning: Citation `Silberschatz05-text' on page 16 undefined on input lin
+e 18.
+
+) [16
+
+
+
+] (./Project.bbl [17
+
+
+]) [18]
+\openout2 = `appendixA.aux'.
+
+ (./appendixA.tex
+Appendix A.
+) [19
+
+
+]
+\openout2 = `appendixB.aux'.
+
+ (./appendixB.tex
+Appendix B.
+) [20
+
+
+
+]
+\openout2 = `appendixC.aux'.
+
+ (./appendixC.tex
+Appendix C.
+) [21
+
+
+
+] (./Project.aux (./intro.aux) (./design.aux) (./implementation.aux)
+(./analysis.aux) (./conclusions.aux) (./appendixA.aux) (./appendixB.aux)
+(./appendixC.aux))
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2129 strings out of 495061
+ 26237 string characters out of 1182622
+ 80589 words of memory out of 3000000
+ 5211 multiletter control sequences out of 15000+50000
+ 21186 words of font info for 49 fonts, out of 3000000 for 9000
+ 28 hyphenation exceptions out of 8191
+ 30i,7n,27p,204b,346s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/share/texmf-texlive/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-texli
+ve/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-texlive/fonts/ty
+pe1/public/amsfonts/cm/cmmi12.pfb></usr/share/texmf-texlive/fonts/type1/public/
+amsfonts/cm/cmmi8.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/
+cmr12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb><
+/usr/share/texmf-texlive/fonts/type1/urw/times/utmb8a.pfb></usr/share/texmf-tex
+live/fonts/type1/urw/times/utmr8a.pfb></usr/share/texmf-texlive/fonts/type1/urw
+/times/utmri8a.pfb>
+Output written on Project.pdf (32 pages, 181174 bytes).
+PDF statistics:
+ 139 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+

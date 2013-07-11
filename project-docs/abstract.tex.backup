@@ -1,0 +1,14 @@
+\begin{abstractpage}
+In this age of the Internet, Natural Language Processing (NLP) techniques are the key sources to provide information
+required by users. However, with extensive usage of available data, a secondary level of wrappers that interact with NLP
+tools have become necessary. These tools must extract a concise summary from the primary data set retrieved. 
+The main reson for using text summarization techniques is to obtain this secondary level of information.
+Text summarization using NLP techniques is an interesting area of research with various implications for information retrieval. 
+
+	This report deals with the use of Latent Semantic Analysis (LSA) for generic text summarization and compares 
+it with other models available. It proposes text summarization using LSA with usage of open-source NLP frameworks 
+like Mahout and Lucene. LSA algorithm can be scaled to multiple large sized documents using these frameworks.
+The performance of this algorithm is compared with other models commonly used for summarization and Recall-Oriented
+Understudy of Gisting Evaluation (ROUGE) scores.  The goal is also to extend the evaluation of algorithms
+beyond English language documents to foreign languages, in this case, Hindi.
+\end{abstractpage}

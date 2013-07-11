@@ -1,0 +1,68 @@
+\begin{thebibliography}{10}
+
+\bibitem{lda-lsa}
+Rachit Arora and Balaraman Ravindran.
+\newblock Latent dirichlet allocation and singular value decomposition based
+  multi-document summarization.
+\newblock In {\em Proceedings of the 2008 Eighth IEEE International Conference
+  on Data Mining}, ICDM '08, pages 713--718, Washington, DC, USA, 2008. IEEE
+  Computer Society.
+
+\bibitem{hmm}
+John~M. Conroy and Dianne~P. O'leary.
+\newblock Text summarization via hidden markov models.
+\newblock In {\em Proceedings of the 24th annual international ACM SIGIR
+  conference on Research and development in information retrieval}, SIGIR '01,
+  pages 406--407, New York, NY, USA, 2001. ACM.
+
+\bibitem{Daume:2006}
+Hal Daum{\'e}, III and Daniel Marcu.
+\newblock Bayesian query-focused summarization.
+\newblock In {\em Proceedings of the 21st International Conference on
+  Computational Linguistics and the 44th annual meeting of the Association for
+  Computational Linguistics}, ACL-44, pages 305--312, Stroudsburg, PA, USA,
+  2006. Association for Computational Linguistics.
+
+\bibitem{Edmundson:1969}
+H.~P. Edmundson.
+\newblock New methods in automatic extracting.
+\newblock {\em J. ACM}, 16(2):264--285, April 1969.
+
+\bibitem{Ferrucci:2011}
+David~A. Ferrucci.
+\newblock Ibm's watson/deepqa.
+\newblock {\em SIGARCH Comput. Archit. News}, 39(3):--, June 2011.
+
+\bibitem{Harabagiu:2005}
+Sanda Harabagiu and Finley Lacatusu.
+\newblock Topic themes for multi-document summarization.
+\newblock In {\em Proceedings of the 28th annual international ACM SIGIR
+  conference on Research and development in information retrieval}, SIGIR '05,
+  pages 202--209, New York, NY, USA, 2005. ACM.
+
+\bibitem{lucene}
+Erik Hatcher and Otis Gospodnetic.
+\newblock {\em Lucene in Action (In Action series)}.
+\newblock Manning Publications Co., Greenwich, CT, USA, 2004.
+
+\bibitem{nutch}
+Rohit Khare and Doug Cutting.
+\newblock Nutch: A flexible and scalable open-source web search engine.
+\newblock Technical report, 2004.
+
+\bibitem{Luhn:1958}
+H.~P. Luhn.
+\newblock The automatic creation of literature abstracts.
+\newblock {\em IBM J. Res. Dev.}, 2(2):159--165, April 1958.
+
+\bibitem{tika}
+Chris Mattmann and Jukka Zitting.
+\newblock {\em Tika in Action}.
+\newblock Manning Publications Co., Greenwich, CT, USA, 2011.
+
+\bibitem{mahout}
+Sean Owen, Robin Anil, Ted Dunning, and Ellen Friedman.
+\newblock {\em Mahout in Action}.
+\newblock Manning Publications Co., Greenwich, CT, USA, 2011.
+
+\end{thebibliography}

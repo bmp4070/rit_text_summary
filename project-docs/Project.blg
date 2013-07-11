@@ -1,0 +1,73 @@
+This is BibTeX, Version 0.99c (TeX Live 2009/Debian)
+The top-level auxiliary file: Project.aux
+A level-1 auxiliary file: intro.aux
+A level-1 auxiliary file: design.aux
+A level-1 auxiliary file: implementation.aux
+A level-1 auxiliary file: analysis.aux
+A level-1 auxiliary file: conclusions.aux
+The style file: plain.bst
+Illegal, another \bibstyle command---line 28 of file Project.aux
+ : \bibstyle
+ :          {plain}
+I'm skipping whatever remains of this command
+A level-1 auxiliary file: appendixA.aux
+A level-1 auxiliary file: appendixB.aux
+A level-1 auxiliary file: appendixC.aux
+Database file #1: CapstoneBib.bib
+Warning--I didn't find a database entry for "Hovy99"
+Warning--I didn't find a database entry for "Nomoto05"
+Warning--I didn't find a database entry for "pagerank"
+Warning--I didn't find a database entry for "TextRank"
+Warning--I didn't find a database entry for "lexrank"
+Warning--I didn't find a database entry for "Wang:2009"
+Warning--I didn't find a database entry for "naive-bayes"
+Warning--I didn't find a database entry for "Steinberger:2009"
+Warning--I didn't find a database entry for "Gong-Liu"
+Warning--I didn't find a database entry for "Bayliss2008-sigcse"
+Warning--I didn't find a database entry for "Dumont2007-robots"
+Warning--I didn't find a database entry for "ELmasri06-text"
+Warning--I didn't find a database entry for "Ericson07-sigcse"
+Warning--I didn't find a database entry for "Silberschatz05-text"
+Warning--empty institution in nutch
+You've used 11 entries,
+            2118 wiz_defined-function locations,
+            605 strings with 6174 characters,
+and the built_in function-call counts, 3799 in all, are:
+= -- 402
+> -- 135
+< -- 4
++ -- 54
+- -- 42
+* -- 237
+:= -- 608
+add.period$ -- 37
+call.type$ -- 11
+change.case$ -- 52
+chr.to.int$ -- 0
+cite$ -- 12
+duplicate$ -- 169
+empty$ -- 313
+format.name$ -- 42
+if$ -- 833
+int.to.chr$ -- 0
+int.to.str$ -- 11
+missing$ -- 13
+newline$ -- 58
+num.names$ -- 22
+pop$ -- 57
+preamble$ -- 1
+purify$ -- 43
+quote$ -- 0
+skip$ -- 126
+stack$ -- 0
+substring$ -- 241
+swap$ -- 46
+text.length$ -- 4
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 38
+warning$ -- 1
+while$ -- 40
+width$ -- 13
+write$ -- 134
+(There was 1 error message)
